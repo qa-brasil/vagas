@@ -9,6 +9,10 @@ Vagas disponíveis em https://github.com/qa-brasil/vagas/issues
 
 Basta clicar em **Watch** e, em seguida, clicar em **Watching**.
 
+<p align="center">
+<img src="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
+</p>
+
 Você pode receber atualizações das vagas no seu email ou via notificações do Github. Você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
 ## Cadastrando uma vaga
