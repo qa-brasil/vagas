@@ -1,0 +1,15 @@
+name: "Encerrar vagas inativas por 90 dias"
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/stale@v1.1.0
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-label: 'Inativa por 90 dias'
+        days-before-stale: 90
+        days-before-close: 0
