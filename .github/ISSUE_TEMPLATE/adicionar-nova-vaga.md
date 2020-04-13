@@ -1,34 +1,43 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] QA na Nome da Empresa"
+title: "[Cidade] QA na NOME DA EMPRESA"
 labels: ''
 assignees: ''
 
 ---
 
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA QA's!
-
-Não faça distinção de gênero no título da vaga.
-
-Use: "QA" ao invés de 
-"Desenvolvedor de Testes" \o/
-
-Exemplo: `[São Paulo] QA na NOME DA EMPRESA`
-==================================================
--->
+<!-- IMPORTANTE:
+1. Só poste vaga de QA.
+2. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.
+3. Não faça distinção de gênero. -->
 
 ## Descrição da vaga
 
 Projeto bazinga em Selenium, etc.
 
-## Local
+## Local de trabalho
 
-Remoto ou Escritório, Belo Horizonte - Pampulha
+Remoto ou Escritório, Belo Horizonte - MG
 
-## Benefícios
+## Requisitos da vaga
+
+**Obrigatórios**
+- 3 anos de experiência com testes automatizados
+- 2 anos de experiência com JUnit e BDD
+
+**Desejáveis**
+- conhecimentos em selenium
+- conhecimentos em capybara
+
+**Diferenciais**
+- projetos open source
+
+## Forma de contratação
+
+PJ ou CLT
+
+## Benefícios da empresa
 
 - Plano de saúde
 - Seguro de vida
@@ -36,7 +45,7 @@ Remoto ou Escritório, Belo Horizonte - Pampulha
 - Auxílio creche
 - ...
 
-#### Diferenciais
+**Diferenciais**
 
 - 2 horas de almoço
 - monte a sua máquina como desejar
@@ -44,45 +53,32 @@ Remoto ou Escritório, Belo Horizonte - Pampulha
 - sala de jogos
 - ...
 
-## Requisitos
+## Sobre a empresa
 
-**Obrigatórios:**
-- 3 anos de experiência com testes automatizados
-- 2 anos de experiência com JUnit e BDD
-
-**Desejáveis:**
-- conhecimentos em selenium
-- conhecimentos em capybara
-
-**Diferenciais:**
-- projetos opensource
-- certificações ISTQB
-
-## Contratação
-
-PJ a combinar
-
-## Nossa empresa
-
-Aqui na Corporação ACME somos líderes em...
+Aqui na Corporação XPTO somos líderes em...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga de QA
+- Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga de QA
+- Candidatar através do linkedin xxxx
 
 ## Tempo médio de feedbacks
 
 Costumamos enviar feedbacks em até XX dias após cada processo.
+
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
-
+<!-- Apague os labels abaixo que não corresponderem à vaga --->
 - Alocado
-- CLT
-- Estágio
-- Freela
-- Júnior
-- PJ
-- Pleno
 - Remoto
+- CLT
+- PJ
+- Freela
+- Estágio
+- Júnior
+- Pleno
 - Sênior
+- Especialista
+<!--- Informar abaixo o nome do estado por extenso --->
+- Rio Grande do Sul
