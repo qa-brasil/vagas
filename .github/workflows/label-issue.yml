@@ -1,0 +1,12 @@
+name: Labeling new issue
+on:
+  issues:
+      types: ['opened', 'edited']
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Renato66/auto-label@2.1.1
+        with:
+          repo-token: ${{ secrets.TOKEN_LABEL_ISSUE }}
+          labels-not-allowed: '["Pendente de Informações"]'
