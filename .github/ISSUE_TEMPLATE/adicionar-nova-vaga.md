@@ -2,8 +2,6 @@
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
 title: "[Cidade] QA na NOME DA EMPRESA"
-labels: ''
-assignees: ''
 
 ---
 
@@ -59,7 +57,7 @@ Aqui na Corporação XPTO somos líderes em...
 
 ## Como se candidatar
 
-- Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga de QA
+- Por favor envie um email para email@email.com.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil
 - Candidatar através do linkedin xxxx
 
 ## Tempo médio de feedbacks
