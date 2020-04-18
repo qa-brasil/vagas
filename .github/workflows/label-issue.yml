@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Renato66/auto-label@2.1.1
+      - uses: Renato66/auto-label@v2
         with:
           repo-token: ${{ secrets.TOKEN_LABEL_ISSUE }}
           labels-not-allowed: '["Pendente de Informações"]'
