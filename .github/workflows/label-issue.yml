@@ -9,4 +9,5 @@ jobs:
       - uses: Renato66/auto-label@v2
         with:
           repo-token: ${{ secrets.TOKEN_LABEL_ISSUE }}
+          labels-synonyms: '{"Inglês":["inglês","english"]}'
           labels-not-allowed: '["Pendente de Informações"]'
