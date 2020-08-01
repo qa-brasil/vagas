@@ -8,7 +8,8 @@ title: "[Cidade] QA na NOME DA EMPRESA"
 <!-- IMPORTANTE:
 1. Só poste vaga de QA.
 2. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.
-3. Não faça distinção de gênero. -->
+3. Não faça distinção de gênero.
+4. Respeite o código de conduta -->
 
 ## Descrição da vaga
 
@@ -21,8 +22,8 @@ Remoto ou Escritório, Belo Horizonte - MG
 ## Requisitos da vaga
 
 **Obrigatórios**
-- 3 anos de experiência com testes automatizados
-- 2 anos de experiência com JUnit e BDD
+- X anos de experiência com testes automatizados
+- X anos de experiência com JUnit e BDD
 
 **Desejáveis**
 - conhecimentos em selenium
@@ -37,8 +38,8 @@ PJ ou CLT
 
 ## Benefícios da empresa
 
-- Plano de saúde
-- Seguro de vida
+- Plano de saúde X
+- Seguro de vida X
 - VR de R$ X/dia
 - Auxílio creche
 - ...
@@ -50,6 +51,13 @@ PJ ou CLT
 - frigobar sempre cheio :P
 - sala de jogos
 - ...
+
+## Range Salarial
+
+<!-- ESSA SEÇÃO É OPCIONAL, apague ela caso não queira divulgar o range salarial.
+Porém saiba que será um diferencial grande da sua vaga em comparação às outras, devido à transparência. --->
+
+A vaga paga entre X.000,00 e X.000,00 reais.
 
 ## Sobre a empresa
 
@@ -67,7 +75,8 @@ Costumamos enviar feedbacks em até XX dias após cada processo.
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
-<!-- Apague os labels abaixo que não corresponderem à vaga --->
+<!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.
+Apague os itens abaixo que não corresponderem à vaga. -->
 - Alocado
 - Remoto
 - CLT
@@ -78,5 +87,6 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Pleno
 - Sênior
 - Especialista
-<!--- Informar abaixo o nome do estado por extenso --->
+<!--- Informar abaixo o nome do estado por extenso.
+Se a sua vaga é de Portugal, só coloque o nome do país Portugal. --->
 - Rio Grande do Sul
