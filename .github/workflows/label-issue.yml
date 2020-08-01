@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: Renato66/auto-label@v2
         with:
-          repo-token: ${{ secrets.TOKEN_LABEL_ISSUE }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           labels-synonyms: '{"Inglês":["inglês","english"]}'
           labels-not-allowed: '["Pendente de Informações"]'
