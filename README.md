@@ -6,7 +6,7 @@
  <b>
    <a href="https://github.com/qa-brasil/vagas/issues">Clique aqui para ver as vagas já cadastradas</a><br>
    <a href="#como-receber-atualizações-de-novas-vagas">Sou QA, como recebo por e-mail as vagas?</a><br>
-   <a href="#cadastrando-uma-vaga">Sou recrutador , como cadastro uma vaga?</a><br>
+   <a href="#cadastrando-uma-vaga">Sou recrutador, como cadastro uma vaga?</a><br>
    <a href=".github/CODE_OF_CONDUCT.md">Código de conduta</a>
  </b>
 </p>
