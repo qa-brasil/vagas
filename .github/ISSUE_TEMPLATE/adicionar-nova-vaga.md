@@ -16,21 +16,24 @@ title: "[Cidade] QA na NOME DA EMPRESA"
 Projeto bazinga em Selenium, etc.
 
 ## Local de trabalho
-
-Remoto ou Escritório, Belo Horizonte - MG
+<!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->
+100% Remoto
+Presencial, escritório em Belo Horizonte - MG, bairro XPTO
+X dias remoto e Y dias presencial no escritório em Belo Horizonte - MG, bairro XPTO
 
 ## Requisitos da vaga
 
 **Obrigatórios**
 - X anos de experiência com testes automatizados
-- X anos de experiência com JUnit e BDD
+- X anos de experiência com JUnit
 
 **Desejáveis**
 - conhecimentos em selenium
-- conhecimentos em capybara
+- conhecimentos em cypress
 
 **Diferenciais**
 - projetos open source
+- conhecimento em docker
 
 ## Forma de contratação
 
@@ -66,7 +69,7 @@ Aqui na Corporação XPTO somos líderes em...
 ## Como se candidatar
 
 - Por favor envie um email para email@email.com.br com seu CV anexado - Enviar no assunto: Vaga do QA-Brasil
-- Candidatar através do linkedin xxxx
+- Candidatar através do site xyz
 
 ## Tempo médio de feedbacks
 
@@ -77,8 +80,6 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 ## Labels
 <!-- Label é uma forma dos QAs conseguirem pesquisar as vagas. Após cadastrar a vaga, ela receberá label automaticamente em até 2 minutos.
 Apague os itens abaixo que não corresponderem à vaga. -->
-- Alocado
-- Remoto
 - CLT
 - PJ
 - Freela
@@ -87,6 +88,9 @@ Apague os itens abaixo que não corresponderem à vaga. -->
 - Pleno
 - Sênior
 - Especialista
+<!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->
+- Presencial
+- Remoto
 <!--- Informar abaixo o nome do estado por extenso.
 Se a sua vaga é de Portugal, só coloque o nome do país Portugal. --->
 - Rio Grande do Sul
