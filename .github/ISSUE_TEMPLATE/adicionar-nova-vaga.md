@@ -17,9 +17,9 @@ Projeto bazinga em Selenium, etc.
 
 ## Local de trabalho
 <!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->
-100% Remoto
-Presencial, escritório em Belo Horizonte - MG, bairro XPTO
-X dias remoto e Y dias presencial no escritório em Belo Horizonte - MG, bairro XPTO
+- 100% Remoto
+- Presencial, escritório em Belo Horizonte - MG, bairro XPTO
+- Híbrido. X dias remoto e Y dias presencial no escritório em Belo Horizonte - MG, bairro XPTO
 
 ## Requisitos da vaga
 
@@ -28,7 +28,7 @@ X dias remoto e Y dias presencial no escritório em Belo Horizonte - MG, bairro 
 - X anos de experiência com JUnit
 
 **Desejáveis**
-- conhecimentos em selenium
+- conhecimentos em testes unitários com Jest
 - conhecimentos em cypress
 
 **Diferenciais**
@@ -56,9 +56,6 @@ PJ ou CLT
 - ...
 
 ## Range Salarial
-
-<!-- ESSA SEÇÃO É OPCIONAL, apague ela caso não queira divulgar o range salarial.
-Porém saiba que será um diferencial grande da sua vaga em comparação às outras, devido à transparência. --->
 
 A vaga paga entre X.000,00 e X.000,00 reais.
 
@@ -91,6 +88,7 @@ Apague os itens abaixo que não corresponderem à vaga. -->
 <!-- Se a vaga for mista (X dias presencial e Y dias remoto) deixe as 2 linhas abaixo -->
 - Presencial
 - Remoto
-<!--- Informar abaixo o nome do estado por extenso.
-Se a sua vaga é de Portugal, só coloque o nome do país Portugal. --->
+<!--- Informar abaixo o nome do estado por extenso se for do Brasil. --->
 - Rio Grande do Sul
+<!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->
+- Exterior
