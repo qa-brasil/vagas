@@ -16,7 +16,7 @@
 Basta clicar em **Watch** e, em seguida, clicar em **Watching**, como o gif exemplifica abaixo.
 
 <p align="center">
-<img src="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
+<img ssrc="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
 </p>
 
 Ao ativar as notificações, você irá receber todas as vagas cadastradas por e-mail com conteúdo integral.
@@ -33,10 +33,25 @@ Ao cadastrar a vaga, ela será enviada integralmente por e-mail a todos os watch
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/qa-brasil/vagas?label=quantidade%20de%20watchers:&color=green&style=for-the-badge">
 
-### ❗️ Importante
+### ❗️ Importante - Leia para não ser bloqueado
 
 1. Não aceitaremos vagas sem o nome da empresa contratante ou que desrespeite o [código de conduta](.github/CODE_OF_CONDUCT.md).
 1. Se a vaga está pendente de informação e/ou totalmente fora do padrão especificado no template da issue, um dos moderadores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que seja corrigida.
+1. **VOCÊ PODE SER BLOQUEADO** de divulgar vaga se realizar ações que geram spam como:
+    1. Abrir diversas issues para a mesma vaga em um curto período de tempo.
+    1. Fechar qualquer issue.
+
+Se alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para **[VAGA FECHADA]**. NÃO feche a issue.
+
+O primeiro bloqueio será de 1 dia, o segundo de 7 dias e o terceiro será permanente.
+
+### Denunciando spam
+
+Para denunciar spam vá até a issue e clique em `Report content`. Dessa maneira os administradores do repositório receberão a notificação e irão lidar com o problema.
+
+![image](https://user-images.githubusercontent.com/29241659/136979807-02c47a72-0c28-47d5-9974-26ee66f705f6.png)
+
+Caso prefira uma abordagem mais direta acesse o [Código de Conduta](https://github.com/qa-brasil/vagas/blob/trunk/.github/CODE_OF_CONDUCT.md#aplica%C3%A7%C3%A3o) e envie um e-mail para os administradores.
 
 ## Outros repositórios de vagas
 

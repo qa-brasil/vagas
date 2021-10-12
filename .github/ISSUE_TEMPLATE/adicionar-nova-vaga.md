@@ -6,10 +6,17 @@ title: "[Cidade] QA na NOME DA EMPRESA"
 ---
 
 <!-- IMPORTANTE:
-1. Só poste vaga de QA.
-2. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.
-3. Não faça distinção de gênero.
-4. Respeite o código de conduta -->
+
+1. VOCÊ PODE SER BLOQUEADO de divulgar vaga se realizar ações que geram spam como:
+    1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.
+    1.2. Fechar qualquer issue.
+
+Se alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.
+
+2. Só poste vaga de QA.
+3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.
+4. Não faça distinção de gênero.
+5. Respeite o código de conduta -->
 
 ## Descrição da vaga
 
@@ -92,3 +99,5 @@ Apague os itens abaixo que não corresponderem à vaga. -->
 - Rio Grande do Sul
 <!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->
 - Exterior
+
+## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.
