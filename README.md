@@ -60,6 +60,7 @@ Como esse repositório é específico para a postagem de vagas de **quality assu
 #### Por área
 
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores Chat-Bot](https://github.com/chatbotbr/vagas)
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
 - [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 - [Vagas para QAs](https://github.com/qa-brasil/vagas)
