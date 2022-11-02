@@ -29,5 +29,6 @@ markComment: >
   ainda está disponível?
   Caso não haja nenhuma atividade esta issue será fechada nos próximos 7 dias.
   Obrigado por contribuir.
+  
 # Limit the number of actions per hour, from 1-30. Default is 30
 limitPerRun: 30
