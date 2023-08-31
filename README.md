@@ -77,6 +77,7 @@ Como esse repositório é específico para a postagem de vagas de **quality assu
 - [Vagas para React/React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
+- [Vagas para Node.JS](https://github.com/nodejsdevbr/vagas)
 
 #### Por localidade
 
